@@ -14,11 +14,14 @@
 
     body {
         background-color: #ffffff !important;
+        font-family: var(--write-font-family) !important;
     }
 
     #write {
         background: #ffffff !important;
         border: none !important;
+        font-family: var(--write-font-family) !important;
+        font-weight: var(--write-font-weight) !important;
     }
 
     img {
