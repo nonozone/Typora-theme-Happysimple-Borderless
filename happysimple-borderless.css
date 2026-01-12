@@ -22,7 +22,7 @@
     /* 书写框的内边距 */
     --write-font-family: 'Ali_PuHuiTi';
     /* 全局的字体名称 */
-    --write-font-size: 15px;
+    --write-font-size: 16px;
     /* 全局的字体大小 */
     --write-font-weight: 300;
     /* 全局的字体粗细 */
@@ -36,7 +36,7 @@
     /* 书写框的边框 */
     --write-border-radius: 5px;
     /* 书写框的边框圆角 */
-    --write-max-width: 80%;
+    --write-max-width: 95%;
     /* 书写框的所占比例 */
 
     /* favico */
