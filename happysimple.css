@@ -10,7 +10,7 @@
 
 :root {
     /* body */
-    --body-background-color: #c0e6ff;   /* 整个界面的背景颜色 */
+    --body-background-color: #ffffff;   /* 整个界面的背景颜色 */
     --select-text-bg-color: #ffafa3;    /* 选中文本时文本的背景颜色 */
 
     /* write */
@@ -22,7 +22,7 @@
     --write-line-height: 1.5;                      /* 全局的行高 */
     --write-color: #000;                         /* 全局的字体颜色 */
     --write-background: #fff;                    /* 书写框的背景颜色,使用linear-gradient可以实现渐变色 */
-    --write-border: 2px solid rgba(0,0,0,0.75);  /* 书写框的边框 */
+    --write-border: none;  /* 书写框的边框 */
     --write-border-radius: 5px;                    /* 书写框的边框圆角 */
     --write-max-width: 80%;                        /* 书写框的所占比例 */
 
